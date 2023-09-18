@@ -1,0 +1,8 @@
+﻿  Лабораторна1АСД.cpp
+C:\Users\MSI Katana\Desktop\Навчання\Алгоритми та структури даних\Лабораторні\Семестр 2\Лабораторна 1\Код 1\Лабораторна1АСД\Лабораторна1АСД.cpp(246,18): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\MSI Katana\Desktop\Навчання\Алгоритми та структури даних\Лабораторні\Семестр 2\Лабораторна 1\Код 1\Лабораторна1АСД\Лабораторна1АСД.cpp(386,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 30 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Лабораторна1АСД.vcxproj -> C:\Users\MSI Katana\Desktop\Навчання\Алгоритми та структури даних\Лабораторні\Семестр 2\Лабораторна 1\Код 1\x64\Release\Лабораторна1АСД.exe
